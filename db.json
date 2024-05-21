@@ -1,0 +1,96 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Arthas Menethil",
+      "description": "Den före detta prinsen av Lordaeron som korrumperas av den förrädiska svärd Frostmourne och blir Lich King.",
+      "image": "images/Lich_King_by_Raneman.webp",
+      "allegiance": "Scourge"
+    },
+    {
+      "id": 2,
+      "name": "Jaina Proudmoore",
+      "description": "En av de ledande figurerna i Alliance och tidigare kärleksintresse för Arthas Menethil.",
+      "image": "images/HSKT_Jaina.webp",
+      "allegiance": "Alliance"
+    },
+    {
+      "id": 3,
+      "name": "Thrall",
+      "description": "En av de ledande figurerna i Horde och tidigare Warchief.",
+      "image": "images/Thrall_9.1.webp",
+      "allegiance": "Horde"
+    },
+    {
+      "id": 4,
+      "name": "Illidan Stormrage",
+      "description": "Tidigare Night Elf, nu Demon Hunter och storebror till Malfurion Stormrage.",
+      "image": "images/Illidan_the_Betrayer.webp",
+      "allegiance": "Illidari"
+    },
+    {
+      "id": 5,
+      "name": "Sylvanas Windrunner",
+      "description": "Tidigare Ranger General av Silvermoon, nu Warchief av Horde.",
+      "image": "images/Sylvanas_9.2.webp",
+      "allegiance": "Horde"
+    },
+    {
+      "id": 6,
+      "name": "Anduin Wrynn",
+      "description": "Kungen av Alliance och son till den tidigare kungen Varian Wrynn.",
+      "image": "images/Anduin_by_Erik_Braddock_-_cropped.webp",
+      "allegiance": "Alliance"
+    }
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Ironforge",
+      "description": "Hemmet för dvärgarna i Alliance.",
+      "image": "images/Ironforge_-_movie.webp",
+      "landmark": "The Great Forge",
+      "faction": "Alliance"
+    },
+    {
+      "id": 2,
+      "name": "Orgrimmar",
+      "description": "Hemmet för orcsen i Horde. Den bästa staden, hands-down, på alla sätt.",
+      "image": "images/Exploring_Azeroth_-_Orgrimmar.webp",
+      "landmark": "Grommash Hold",
+      "faction": "Horde"
+    },
+    {
+      "id": 3,
+      "name": "Dalaran",
+      "description": "Huvudstaden för magikerna i Azeroth.",
+      "image": "images/Dalaran_City.webp",
+      "landmark": "Violet Citadel",
+      "faction": "Neutral"
+    },
+    {
+      "id": 4,
+      "name": "Stormwind City",
+      "description": "Huvudstaden för Alliance.",
+      "image": "images/Stormwind_City_TCG.webp",
+      "landmark": "Stormwind Keep",
+      "faction": "Alliance"
+    },
+    {
+      "id": 5,
+      "name": "Undercity",
+      "description": "Huvudstaden för Forsaken, tidigare ett hem för Lordaeron.",
+      "image": "images/Undercity_TCG.webp",
+      "landmark": "The Apothecarium",
+      "faction": "Horde"
+    },
+    {
+      "id": 6,
+      "name": "Thunder Bluff",
+      "description": "Hemmet för Tauren i Horde.",
+      "image": "images/Thunder_Bluff_HS.webp",
+      "landmark": "Elevator to Elder Rise",
+      "faction": "Horde"
+    }
+  ]
+}
